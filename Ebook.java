@@ -1,4 +1,5 @@
-package PerpustakaanOOP.src;
+package PerpustakaanOOP;
+
 
 class EBook extends LibraryItem {
     private String format;

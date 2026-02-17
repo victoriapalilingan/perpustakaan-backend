@@ -1,4 +1,4 @@
-package PerpustakaanOOP.src;
+package PerpustakaanOOP;
 
 abstract class LibraryItem {
     private String judul;

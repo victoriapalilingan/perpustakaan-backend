@@ -1,4 +1,5 @@
-package PerpustakaanOOP.src;
+package PerpustakaanOOP;
+
 
 class PrintedBook extends LibraryItem {
     public PrintedBook() {

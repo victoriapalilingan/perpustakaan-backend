@@ -1,5 +1,4 @@
-package PerpustakaanOOP.src;
-
+package PerpustakaanOOP;
 class Borrower {
     private String nama;
     private String phone;
